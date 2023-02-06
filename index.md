@@ -14,5 +14,3 @@ My research focuses on:
 - Bayesian networks
 - Hierarchical models
 - Federate learning 
-
-See my publications and bibliometrics on my [Google Scholar](http://scholar.google.ch/citations?user=8WSDwpUAAAAJ) profile.

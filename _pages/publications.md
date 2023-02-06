@@ -3,6 +3,7 @@ permalink: /publications/
 title: Publications
 published: true
 ---
+Check also the most up-to-date list on my [Google Scholar](http://scholar.google.ch/citations?user=8WSDwpUAAAAJ) profile.
 
 ## International journal papers 
 - L. Azzimonti, G. Corani, M. Scutari: “A Bayesian Hierarchical score for structure learning from related data sets.” International Journal of Approximate Reasoning, col. 142, 248-265, 2022. [[link](https://doi.org/10.1016/j.ijar.2021.11.013)]
