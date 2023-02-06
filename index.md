@@ -15,4 +15,4 @@ My research focuses on:
 
 See my publications and bibliometrics on my [Google Scholar](http://scholar.google.ch/citations?user=8WSDwpUAAAAJ) profile.
 
-<I teach university Maths courses at [SUPSI](https://www.supsi.ch) (Lugano).>
+/*I teach university Maths courses at [SUPSI](https://www.supsi.ch) (Lugano).>*/
