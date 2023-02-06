@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Laura Azzimonti"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Researcher and Lecturer at the Dalle Molle Institute for Artificial Intelligence, USI-SUPSI, Lugano, Switzerland."
+  bio    : "Senior Researcher and Lecturer at IDSIA, USI-SUPSI, Lugano, Switzerland."
   links:
     - label: "Personal Website"
       icon: "fas fa-fw fa-link"
