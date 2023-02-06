@@ -60,11 +60,14 @@ plugins:
 author:
   name   : "Laura Azzimonti"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ssenior Researcher and Lecturer at the Dalle Molle Institute for Artificial Intelligence, USI-SUPSI, Lugano, Switzerland."
+  bio    : "Senior Researcher and Lecturer at the Dalle Molle Institute for Artificial Intelligence, USI-SUPSI, Lugano, Switzerland."
   links:
     - label: "Personal Website"
       icon: "fas fa-fw fa-link"
       url: "https://laura-azzimonti.github.io/"
+    - label: "IPG"
+      icon: "fas fa-fw fa-link"
+      url: "https://ipg.idsia.ch/"
     - label: "IDSIA Health"
       icon: "fas fa-fw fa-link"
       url: "https://health.idsia.ch/"
@@ -74,15 +77,15 @@ author:
     - label: "SUPSI"
       icon: "fas fa-fw fa-link"
       url: "https://www.supsi.ch/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/laura-azzimonti"
 
 footer:
   links:
     - label: "Personal Website"
       icon: "fas fa-fw fa-link"
       url: "https://laura-azzimonti.github.io/"
+    - label: "IPG"
+      icon: "fas fa-fw fa-link"
+      url: "https://ipg.idsia.ch/"
     - label: "IDSIA Health"
       icon: "fas fa-fw fa-link"
       url: "https://health.idsia.ch/"
@@ -92,9 +95,6 @@ footer:
     - label: "SUPSI"
       icon: "fas fa-fw fa-link"
       url: "https://www.supsi.ch/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/laura-azzimonti"
 
 defaults:
   # _posts

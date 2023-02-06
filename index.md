@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-I work in the [Imprecise Probability Group](https://www.ipg.ch) at [IDSIA - "Dalle Molle" Institute for Artificial Intelligence](https://www.idsia.ch) ([USI](https://www.usi.ch)-[SUPSI](https://www.supsi.ch)) in Lugano (Switzerland).
+I work in the [Imprecise Probability Group](https://www.ipg.idsia.ch) at [IDSIA - "Dalle Molle" Institute for Artificial Intelligence](https://www.idsia.ch) ([USI](https://www.usi.ch)-[SUPSI](https://www.supsi.ch)) in Lugano (Switzerland).
 
 My research focuses on:
 - Machine Learning for personalised medicine
