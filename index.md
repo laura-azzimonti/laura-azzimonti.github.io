@@ -14,3 +14,5 @@ My research focuses on:
 - Probabilistic graphical models
 - Hierarchical models
 - Federated learning 
+
+[CV]({{ site.baseurl }}{"/assets/CV/CV azzimonti webpage.pdf"})
