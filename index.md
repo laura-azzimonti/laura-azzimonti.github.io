@@ -15,5 +15,4 @@ My research focuses on:
 - Hierarchical models
 - Federated learning 
 
-[CV]({{ site.baseurl }}{"/assets/CV/CV azzimonti webpage.pdf"})
-[CV](/assets/CV/CV azzimonti webpage.pdf)
+You can find more information on my [CV](/assets/CV/CV azzimonti webpage.pdf).
