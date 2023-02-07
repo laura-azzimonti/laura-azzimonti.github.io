@@ -16,3 +16,4 @@ My research focuses on:
 - Federated learning 
 
 [CV]({{ site.baseurl }}{"/assets/CV/CV azzimonti webpage.pdf"})
+[CV](/assets/CV/CV azzimonti webpage.pdf)
