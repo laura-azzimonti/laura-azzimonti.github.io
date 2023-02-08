@@ -11,7 +11,7 @@ Some of the applied projects in the biomedical field are described at the [IDSIA
 
 Here is a list of selected papers. 
 
-## Papers
+## Selected papers
 - M. Scutari, C. Marquis, L. Azzimonti: “Using mixed-effects models to learn Bayesian networks from related data sets”, Proceedings of the 11th International Conference on Probabilistic Graphical Models, PMLR, 186, 73-84, 2022. [[link](http://proceedings.mlr.press/v186/scutari22a.html)]
 - L. Azzimonti, G. Corani, M. Scutari: “A Bayesian Hierarchical score for structure learning from related data sets.” International Journal of Approximate Reasoning, col. 142, 248-265, 2022. [[link](https://doi.org/10.1016/j.ijar.2021.11.013)]
 - K. Sechidis, L. Azzimonti, A. Pocock, G. Corani, A. Weatherall, G. Brown: “Efficient feature selection using shrinkage estimators”, Machine Learning Journal, vol. 108, 1261-1286, 2019. [[link](https://doi.org/10.1007/s10994-019-05795-1)]
