@@ -10,9 +10,11 @@ I am a Senior Researcher and Lecturer at [IDSIA](https://www.idsia.ch) ([USI](ht
 
 My research focuses on:
 - Machine learning for personalised medicine
+- Bioinformatics
+- Federated learning
 - Physics-informed machine learning 
 - Probabilistic graphical models
 - Hierarchical models
-- Federated learning 
+ 
 
 You can find more information on my [CV](/assets/CV/CV azzimonti webpage.pdf).
