@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Laura Azzimonti"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Researcher and Lecturer at IDSIA, USI-SUPSI, Lugano, Switzerland."
+  bio    : "Senior Researcher and Lecturer at IDSIA, USI-SUPSI, Lugano, Switzerland. SIB Group Leader."
   links:
     - label: "Personal Website"
       icon: "fas fa-fw fa-link"
@@ -77,6 +77,10 @@ author:
     - label: "SUPSI"
       icon: "fas fa-fw fa-link"
       url: "https://www.supsi.ch/"
+    - label: "SIB"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.sib.swiss/"
+
 
 footer:
   links:
@@ -95,6 +99,9 @@ footer:
     - label: "SUPSI"
       icon: "fas fa-fw fa-link"
       url: "https://www.supsi.ch/"
+    - label: "SIB"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.sib.swiss/"
 
 defaults:
   # _posts
