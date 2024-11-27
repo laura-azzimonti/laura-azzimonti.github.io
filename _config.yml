@@ -16,7 +16,7 @@
 title: Laura Azzimonti
 subtitle: Personal Page
 email:
-description: Personal Page of Laura Azzimonti, Senior Researcher and Lecturer at IDSIA, Lugano, Switzerland
+description: Personal Page of Laura Azzimonti, Senior Researcher and Lecturer at SUPSI-IDSIA, Lugano, Switzerland
 url: "https://laura-azzimonti.github.io"
 baseurl: "/"
 twitter_username:
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Laura Azzimonti"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Researcher and Lecturer at IDSIA, USI-SUPSI, Lugano, Switzerland and SIB Group Leader."
+  bio    : "Senior Researcher and Lecturer at SUPSI-IDSIA, Lugano, Switzerland and SIB Group Leader."
  
   links:
     - label: "Personal Website"
