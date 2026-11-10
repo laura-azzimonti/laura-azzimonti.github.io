@@ -7,7 +7,7 @@ published: true
 ## Main interests
 My main research interests are probabilistic graphical models, hierarchical Bayesian modelling, physics-informed machine learning, federated learning and the application of machine learning techniques to personalised medicine. 
 
-Some of the applied projects in the biomedical field are described at the [IDSIA health website](https://health.idsia.ch/ml-personalized/).
+Some of the applied projects in the biomedical field are described at the [IDSIA health website](https://health.idsia.ch/ml-personalized/). The research of my group is presented on the [Knowledge-Informed AI group website](https://kiai-idsia.github.io/).
 
 Here is a list of selected papers. 
 
